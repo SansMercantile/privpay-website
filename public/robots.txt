@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Block development files
+Disallow: /_next/
+
+# Sitemap
+Sitemap: https://privpay.sansmercantile.com/sitemap.xml
